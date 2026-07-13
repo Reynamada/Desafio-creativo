@@ -1,7 +1,3 @@
-Com certeza! Adaptar aquele prompt detalhado para a estrutura exata do "Desafio Criativo" é um excelente exercício de síntese.
-
-Abaixo, apresento como fica a construção passo a passo, preenchendo os modelos exigidos pelo seu desafio com as informações do menino.
-
 ---
 
 ### 🧱 Passo 1: Defina a intenção
