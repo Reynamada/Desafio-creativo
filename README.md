@@ -1,4 +1,4 @@
-# 🧠 Desafio Criativo: Engenharia de Prompts na Prática
+# 🧠 Desafio Criativo: Simplificando Tarefas e Ganhando Foco com IA
 
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-Neurodiversidade-4CAF50?style=for-the-badge)
