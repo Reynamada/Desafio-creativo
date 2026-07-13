@@ -1,5 +1,3 @@
-
-
 ### 🧱 Passo 1: Defina a intenção
 
 **O que fazer:** Descrever o que quer que a IA faça e para quem.
